@@ -27,4 +27,7 @@ My vision is to build a **Cyber Safe Nation** and inspire the new generation in 
 <!-- Snake Game Contribution Graph -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
